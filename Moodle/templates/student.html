@@ -1,0 +1,32 @@
+<html>
+<head>
+        <meta charset="UTF-8">
+    <title>Register Form</title>
+   <link href="static/style.css" rel="stylesheet" type="text/css" media="all">
+    </head>
+    <body>
+        <div class="header">
+            <h1>Register Form</h1>
+        </div>
+
+      <form action = "{{ url_for('addrec') }}" method = "POST">
+         <table>
+         <tr>
+         <td>Username:</td>
+         <td><input type = "text" name = "username" placeholder="username" required ></td></tr>
+         <tr>
+         <td>Password</td>
+         <td><input type = "text" name = "password"  pattern= "[0-9]{4}" title="Only 4 numbers ( e.g. 1234 )" placeholder="password" required ></td></tr>
+         <tr>
+         <td>Firstname</td>
+         <td><input type = "text" name = "firstname" placeholder="firstname" required ></td></tr>
+         <tr>
+         <td>Lastname</td>
+         <td><input type = "text" name = "lastname" placeholder="lastname" required ></td></tr>
+         <tr>
+         <td><input type = "submit" value = "Register" required ></td></tr>
+         <td><a href="/"> Go back to Login </a> </td>
+         </table>
+      </form>
+   </body>
+</html>

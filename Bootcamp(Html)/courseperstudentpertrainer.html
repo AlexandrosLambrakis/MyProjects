@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CoursePerStudentPerTrainer</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+
+<body>
+    <nav>
+        <label class="logo">CodingBootcamp</label>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#">Add
+                    <i class="fas fa-caret-down"></i>
+                </a>
+                <ul>
+                    <li><a href="addcourse.html">Course</a></li>
+                    <li><a href="addtrainer.html">Trainer</a></li>
+                    <li><a href="addstudent.html">Student</a></li>
+                    <li><a href="addassignment.html">Assignment</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Edit-Update
+                    <i class="fas fa-caret-down"></i>
+                </a>
+                <ul>
+                    <li><a href="edit-update-course.html"> Course</a></li>
+                    <li><a href="edit-update-trainer.html"> Trainer</a></li>
+                    <li><a href="edit-update-student.html"> Student</a></li>
+                    <li><a href="edit-update-assignment.html"> Assign</a></li>
+                </ul>
+            </li>
+            <li><a class="active" href="#">Form Per
+                    <i class="fas fa-caret-down"></i>
+                </a>
+                <ul>
+                    <li><a class="active" href="courseperstudentpertrainer.html"> Per Course</a></li>
+                    <li><a href="trainerpercourse.html"> Per Trainer</a></li>
+                    <li><a href="studentpercourse.html"> Per Student</a></li>
+                    <li><a href="assignmentpercourse.html">Per Assign</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <div class="body2">
+        <div class="container">
+            <div class="text">
+                Course Per Student Per Trainer</div>
+            <form name="myform" id="#" action="#" onsubmit="return courseperstudentpertrainer(this);">
+                <div class="form-row">
+                    <div class="input-data">
+                        <select name="stream" id="stream">
+                            <option disabled selected value> -- Select an option -- </option>
+                            <option value="html">Html</option>
+                            <option value="css">Css</option>
+                            <option value="javascript">JS</option>
+                            <option value="java">Java</option>
+                        </select>
+                        <label>Stream</label>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="input-data">
+                        <select name="student" id="student">
+                            <option disabled selected value> -- Select an option -- </option>
+                            <option value="alambrakis">Alexandros Lambrakis</option>
+                            <option value="mtriantafillou">Maria Triantafillou</option>
+                            <option value="gargiridis">Giorgos Argiridis</option>
+                            <option value="kpanagiotidi">Kassiani Panagiotidi</option>
+                        </select>
+                        <div class="underline">
+                        </div>
+                        <label>Student</label>
+                        <div class="underline">
+                        </div>
+                    </div>
+                    <div class="input-data">
+                        <select name="trainer" id="trainer">
+                            <option disabled selected value> -- Select an option -- </option>
+                            <option value="kapetanaki">Kapetanaki</option>
+                            <option value="fotiadis">Fotiadis</option>
+                            <option value="pasparakis">Pasparakis</option>
+                        </select>
+                        <label>Trainer</label>
+                        <div class="underline">
+                        </div>
+                    </div>
+                </div>
+
+
+                <br />
+                <div class="form-row submit-btn">
+                    <div class="input-data">
+                        <div class="inner"></div>
+                        <input type="submit" value="submit">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/javascript.js"></script>
+</body>
+
+</html>

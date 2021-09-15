@@ -1,0 +1,47 @@
+body{
+    background-color: #111;
+}
+h1{
+    text-align: center; 
+}
+form{
+    margin: 25px auto;
+    width: 300px;
+   
+}
+input{
+    padding: 21px;
+    font-size: inherit;
+}
+
+input[type="text"] {
+    display:block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 3px solid;
+}
+input[type="text"] {
+    display:block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 3px solid;
+}
+
+input[type="number"] {
+    display:block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 3px solid;
+}
+
+input[type="submit"] {
+    display:block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 3px solid;
+}
+
+
+
+
+

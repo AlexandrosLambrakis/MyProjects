@@ -1,0 +1,33 @@
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+    <title>Login Form</title>
+   <link href="static/style.css" rel="stylesheet" type="text/css" media="all">
+    </head>
+    <body>
+        <div class="header">
+            <h1>Login Form</h1>
+        </div>
+
+<div class="box">
+{% if error%}
+	<h1> {{error}} </h1>
+{% endif %}
+      
+<form action="/" method="post">
+	<table>
+	<tr>
+	<td><input type="text" name="username" id="username" placeholder="Username" required></td></tr>
+	<tr>
+	<td><input type="password" name="password" id="password" placeholder="Password" required></td></tr>
+	<tr>
+	<td><input type="submit" class="button" value="Log In"></td></tr>
+	<td><a href="{{ url_for('new_student') }}"> Go to Register </a> </td>
+	</table>
+</form>
+
+</div>
+<div class="footer">
+<h5 style="text-align:center;">
+</body>
+</html> 

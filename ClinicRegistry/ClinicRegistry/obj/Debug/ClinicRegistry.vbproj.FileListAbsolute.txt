@@ -1,0 +1,38 @@
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\bin\Debug\ClinicRegistry.exe
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\bin\Debug\ClinicRegistry.pdb
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\bin\Debug\ClinicRegistry.xml
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\obj\Debug\ClinicRegistry.Form1.resources
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\obj\Debug\ClinicRegistry.Resources.resources
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\obj\Debug\ClinicRegistry.vbproj.GenerateResource.Cache
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\obj\Debug\ClinicRegistry.exe
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\obj\Debug\ClinicRegistry.xml
+C:\Users\giwrgos\AppData\Local\Temporary Projects\ClinicRegistry\obj\Debug\ClinicRegistry.pdb
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\obj\Debug\ClinicRegistry.exe
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\obj\Debug\ClinicRegistry.xml
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\obj\Debug\ClinicRegistry.pdb
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\bin\Debug\ClinicRegistry.exe
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\bin\Debug\ClinicRegistry.pdb
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\bin\Debug\ClinicRegistry.xml
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\obj\Debug\ClinicRegistry.Resources.resources
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\obj\Debug\ClinicRegistry.vbproj.GenerateResource.Cache
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\obj\Debug\ClinicRegistry.MainForm.resources
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\obj\Debug\ClinicRegistry.NewRegisterForm1.resources
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\obj\Debug\ClinicRegistry.vbprojResolveAssemblyReference.cache
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\bin\Debug\ClinicRegistry.exe.config
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\bin\Debug\FullPatientInfo.mdb
+C:\Users\giwrgos\Documents\Visual Studio 2008\Projects\ClinicRegistry\ClinicRegistry\obj\Debug\ClinicRegistry.Form1.resources
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\bin\Debug\ClinicRegistry.exe.config
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\obj\Debug\ClinicRegistry.exe
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\obj\Debug\ClinicRegistry.xml
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\obj\Debug\ClinicRegistry.pdb
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\bin\Debug\FullPatientinfo.mdb
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\bin\Debug\ClinicRegistry.exe
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\bin\Debug\ClinicRegistry.pdb
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\bin\Debug\ClinicRegistry.xml
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\obj\Debug\ClinicRegistry.vbprojResolveAssemblyReference.cache
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\obj\Debug\ClinicRegistry.Form1.resources
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\obj\Debug\ClinicRegistry.MainForm.resources
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\obj\Debug\ClinicRegistry.NewRegisterForm1.resources
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\obj\Debug\ClinicRegistry.Resources.resources
+C:\Users\Alexandros\Desktop\New folder\ClinicRegistry\obj\Debug\ClinicRegistry.vbproj.GenerateResource.Cache

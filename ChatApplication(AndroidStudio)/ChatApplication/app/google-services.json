@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "91184069998",
+    "firebase_url": "https://lamprakis-78f75.firebaseio.com",
+    "project_id": "lamprakis-78f75",
+    "storage_bucket": "lamprakis-78f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91184069998:android:9be09396a4565ee3",
+        "android_client_info": {
+          "package_name": "example.lamprakis.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91184069998-1m0avcp1ml4eogief8hu08i8pej08pu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.lamprakis.chatapplication",
+            "certificate_hash": "558ea608d7c6b00c3fd8755f4b8443eda14305f1"
+          }
+        },
+        {
+          "client_id": "91184069998-gdhkeclm7ger73agcaork2khshg0r7df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwkpYU-cfQxkw4GZlrSnh24DYQrNofTSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91184069998-gdhkeclm7ger73agcaork2khshg0r7df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

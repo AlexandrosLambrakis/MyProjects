@@ -1,0 +1,16 @@
+SQLite application
+http://sqlitebrowser.org/
+
+SQLite Online
+https://sqliteonline.com/#
+
+SQLite tutorial
+https://www.tutorialspoint.com/sqlite/
+
+SQLite with Flask tutorial
+https://www.tutorialspoint.com/flask/flask_sqlite.htm 
+https://www.tutorialspoint.com/flask/flask_sqlalchemy.htm 
+
+https://blog.syncano.io/intro-flask-pt-2-creating-writing-databases/
+http://flask.pocoo.org/docs/0.12/patterns/sqlite3/
+
